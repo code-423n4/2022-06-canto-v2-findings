@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "AlleyCat",
+  "address": "0x9dfcc853d908ef27ec32826c96306841218e88f4",
+  "risk": "2",
+  "title": "Incorrect ERC20 Interface in `CDaiDelegate.sol` for `Interface GemLike.approve`",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/30"
+}
