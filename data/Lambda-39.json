@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "Lambda",
+  "address": "0xefc711b22f4fdbcbc221ac7c116e90c699d0b708",
+  "risk": "3",
+  "title": "getSupplyRate returns rate per year instead of per block",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/39"
+}
