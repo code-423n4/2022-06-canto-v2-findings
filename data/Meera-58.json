@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "Meera",
+  "address": "0xa4b2ac8832c6062838e4c65fa6f23cd562d35c94",
+  "risk": "2",
+  "title": "`call()` should be used instead of `transfer()` on an `address payable`",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/58"
+}
