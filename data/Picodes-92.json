@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "Picodes",
+  "address": "0x9843c8a8263308a309bfc3c2d1c308126d8e754d",
+  "risk": "3",
+  "title": "A cap is needed on the amount of Note than can be borrowed",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/92"
+}
