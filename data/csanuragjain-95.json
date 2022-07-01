@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "csanuragjain",
+  "address": "0xd295584135829d89427674b72560222b06e08a15",
+  "risk": "2",
+  "title": "period size is incorrectly set",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/95"
+}
