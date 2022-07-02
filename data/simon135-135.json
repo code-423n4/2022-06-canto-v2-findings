@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "simon135",
+  "address": "0x7bfbabda21beebb17e284901bfc41e942f8128c8",
+  "risk": "2",
+  "title": "Attackers can call `update` and grief users from swapping tokens or minting/burning  because  those functions divide by zero  ",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/135"
+}
