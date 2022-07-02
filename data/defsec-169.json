@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "defsec",
+  "address": "0x38bce8c1ca5a061aa8e2b4750c18ba3efb27ced9",
+  "risk": "2",
+  "title": "Eth sent to Timelock will be locked in current implementation",
+  "issueId": 169,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/169"
+}
