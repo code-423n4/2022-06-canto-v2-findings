@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "0xsolstars",
+  "address": "0x83646b933ee0CfA62363a7F15D7533BF2642f006",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/181"
+}
