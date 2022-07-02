@@ -1,0 +1,9 @@
+{
+  "contest": 141,
+  "handle": "ladboy233",
+  "address": "0xe1faaeb0d29c9cf411cbd47daab14a21ebe266a4",
+  "risk": "3",
+  "title": "Unused deadline checker modifier may result in user fund loss due to unexpect transaction ordering (MEV)",
+  "issueId": 133,
+  "issueUrl": "https://github.com/code-423n4/2022-06-NewBlockchain-v2-findings/issues/133"
+}
